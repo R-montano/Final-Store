@@ -134,7 +134,7 @@ const LandingPage = () => {
         </div>
       </section>
 
-      {/* CTA final con degradado morado intenso */}
+      {/* CTA final acceso a nuestro productos */}
       <section className="py-20 px-6 bg-gradient-to-br from-violet-700 via-violet-600 to-violet-500 text-center text-white rounded-t-3xl">
         <div className="relative z-10">
           <h2 className="text-4xl font-bold mb-6">
